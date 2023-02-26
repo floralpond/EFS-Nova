@@ -22,4 +22,5 @@ Hi, my name is Jonathan Campbell and I converted Nova to be compatible with EFS 
 - Lots of other smaller changes which should make the game better!
 
 Hope you enjoy it, let me know if you have any questions or comments!
+
 Jonathan Campbell
