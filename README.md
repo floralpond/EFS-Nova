@@ -1,5 +1,7 @@
 EMPEROR OF THE FADING SUNS - NOVA
 
+Download here: https://github.com/floralpond/EFS-Nova/raw/main/Nova2.4.zip
+
 
 Nova Version 2.4 - This file last updated: February 25, 2023
 
